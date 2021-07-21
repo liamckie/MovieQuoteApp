@@ -1,0 +1,14 @@
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\bin\Debug\netcoreapp3.1\MovieQuoteApp.exe
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\bin\Debug\netcoreapp3.1\MovieQuoteApp.deps.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\bin\Debug\netcoreapp3.1\MovieQuoteApp.runtimeconfig.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\bin\Debug\netcoreapp3.1\MovieQuoteApp.runtimeconfig.dev.json
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\bin\Debug\netcoreapp3.1\MovieQuoteApp.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\bin\Debug\netcoreapp3.1\MovieQuoteApp.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\obj\Debug\netcoreapp3.1\MovieQuoteApp.csproj.AssemblyReference.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\obj\Debug\netcoreapp3.1\MovieQuoteApp.AssemblyInfoInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\obj\Debug\netcoreapp3.1\MovieQuoteApp.AssemblyInfo.cs
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\obj\Debug\netcoreapp3.1\MovieQuoteApp.csproj.CoreCompileInputs.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\obj\Debug\netcoreapp3.1\MovieQuoteApp.dll
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\obj\Debug\netcoreapp3.1\MovieQuoteApp.pdb
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\obj\Debug\netcoreapp3.1\MovieQuoteApp.genruntimeconfig.cache
+C:\Users\ryan1\Desktop\Liam\Programming\C# Projects\MovieQuoteApp\bin\Debug\netcoreapp3.1\MovieQuote.txt
